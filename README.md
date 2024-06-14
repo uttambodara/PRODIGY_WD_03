@@ -17,3 +17,6 @@ Simple tic-tac-toe game built using HTML, CSS, and JavaScript.
 
 
 [Live demo 👋](https://tictactoesites.netlify.app/)
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev) 
